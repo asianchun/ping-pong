@@ -26,7 +26,7 @@ Check out the live demo of the Pong [here](#).
 
 ## Run Locally
 
-To run the Quiz locally, follow these steps:
+To run the Pong locally, follow these steps:
 
 1. Clone the repository to your local machine.
 
