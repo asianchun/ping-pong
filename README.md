@@ -25,7 +25,7 @@ Welcome to the Pong Game! This project is a Java implementation of the classic P
 
 ## Run Locally
 
-To run the Quiz locally, follow these steps:
+To run the Pong locally, follow these steps:
 
 1. Clone the repository to your local machine.
 
