@@ -4,7 +4,7 @@ Welcome to the Pong Game! This project is a Java implementation of the classic P
 
 ## Table of Contents
 
-- [Demo](#demo)
+- [Screenshot](#screenshot)
 - [Features](#features)
 - [Run Locally](#run-locally)
 - [How to Play](#how-to-play)
@@ -12,9 +12,8 @@ Welcome to the Pong Game! This project is a Java implementation of the classic P
 - [Customisation](#customisation)
 - [Contributing](#contributing)
 
-## Demo
-
-Check out the live demo of the Pong [here](#).
+## Screenshot
+![Alt Text](/screenshot.png?raw=true "Optional Title")
 
 ## Features
 
